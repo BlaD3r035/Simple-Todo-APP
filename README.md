@@ -28,3 +28,6 @@ npm run dev
 ## Note:
 
 This proyect is just for learning React basics, use as reference if you want.
+
+
+<img width="1919" height="840" alt="image" src="https://github.com/user-attachments/assets/777396c2-934d-4f69-bc2e-4fa185658614" />
