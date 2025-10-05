@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+  font-family: "DynaPuff", system-ui;
+}
+h1 {
+    font-family: "Gravitas One", serif;
+
+}
+body {
+  display: flex;
+  background: #242323;
+  justify-content: center;
+}
